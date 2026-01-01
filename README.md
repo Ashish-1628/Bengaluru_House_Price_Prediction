@@ -90,10 +90,13 @@ http://127.0.0.1:5000
 
 
 📸 Screenshots
-<img width="877" height="922" alt="Screenshot 2026-01-02 014416" src="https://github.com/user-attachments/assets/bf25458a-432d-4ec6-90ec-f54fdf47bdab" />
-<img width="609" height="815" alt="Screenshot 2026-01-02 014320" src="https://github.com/user-attachments/assets/b20b835c-3e8e-4985-b9ba-6f1f7ca80596" />
-<img width="1022" height="926" alt="Screenshot 2026-01-02 014302" src="https://github.com/user-attachments/assets/0f08373a-3daa-4f91-83c9-38efef9b5b59" />
+<p align="center"><b>Flask Web App – Bengaluru House Price Predictor</b></p>
+<img width="1200" height="700" alt="Flask UI" src="https://github.com/user-attachments/assets/bf25458a-432d-4ec6-90ec-f54fdf47bdab" />
 
+<p align="center"><b>Prediction Output</b></p>
+<img width="1200" height="700" alt="Model Training" src="https://github.com/user-attachments/assets/b20b835c-3e8e-4985-b9ba-6f1f7ca80596" />
+
+<img width="1200" height="700" alt="Prediction Result" src="https://github.com/user-attachments/assets/0f08373a-3daa-4f91-83c9-38efef9b5b59" />
 
 
 🎯 Future Enhancements
